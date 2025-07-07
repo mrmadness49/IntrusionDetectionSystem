@@ -1,4 +1,4 @@
-# 🛡️ Intelligent Intrusion Detection System
+# 🛡️ Intrusion Detection System
 
 ## 🌐 Project Overview
 
@@ -7,17 +7,11 @@ In the ever-evolving landscape of cybersecurity, our Intrusion Detection System 
 ## ✨ Key Innovations
 
 ### 🔍 Advanced Threat Detection
-- **Intelligent Neural Architecture**
+- **Neural Architecture**
   - Deep learning model trained on NSL-KDD dataset
   - Stacked encoders for nuanced feature extraction
   - Gated convolution for adaptive threat weighting
   - Precision-driven multi-class attack classification
-
-### 🧬 Synthetic Data Mastery
-- **CTGAN: Synthetic Data Generation**
-  - Generates high-fidelity network security datasets
-  - Addresses data scarcity and class imbalance
-  - Enhances model generalization and resilience
 
 ### 🚀 Real-Time Network Vigilance
 - **Live Network Monitoring**
@@ -87,7 +81,6 @@ ids/
 │   ├── 💻 src/
 │   └── 📦 package.json
 └── 🧠 src/
-    ├── 📊 CTGAN/
     └── 🔮 IDS/
 ```
 
